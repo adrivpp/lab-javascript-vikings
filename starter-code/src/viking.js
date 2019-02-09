@@ -1,11 +1,27 @@
 // Soldier
-function Soldier() {}
+class Soldier {
+  constructor() {
+
+  };
+};
 
 // Viking
-function Viking() {}
+class Viking {
+  constructor() {
+
+  };
+};
 
 // Saxon
-function Saxon() {}
+class Saxon {
+  constructor() {
+
+  };
+};
 
 // War
-function War() {}
+class War {
+  constructor() {
+
+  };
+};
